@@ -1,2 +1,5 @@
 # Rhythia.Ai
-An Ai made to help people with the game Rhythia, Not affiliated with Rhythia.
+### Created by Bebbesi
+Rhythia AI is a chatbot designed to assist you with all things Rhythia. It can help you with installing the game and understanding its features. It's made to provide quick and concise answers to your questions about Rhythia. 
+
+ ## Not affiliated with Rhythia.
